@@ -1,0 +1,1 @@
+My agent has read every file in this repo and still asks me where the bug is, like a librarian who memorized the catalog and never opened a book.
